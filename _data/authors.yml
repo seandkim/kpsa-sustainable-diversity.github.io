@@ -1,0 +1,22 @@
+sage_kirk:
+  title: "Sage Kirk"
+  name: "Sage Kirk"
+  job: "Co-founder & CEO"
+  image: "assets/images/team/sage-kirk.jpg"
+  bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in."
+mike_vance:
+  title: "Mike Vance"
+  name: "Mike Vance"
+  job: "Developer Relations"
+  image: "assets/images/team/mike-vance.jpg"
+  bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in."
+honglim_ryu:
+  title: "유홍림"
+  name: "유홍림"
+  job: "정치외교학부 교수 / 전 사회과학대학장"
+  image: "assets/images/team/honglim.jpg"
+bumsoo_kim:
+  title: "김범수"
+  name: "김범수"
+  job: "서울대 자유전공학부 교수(정치학)"
+  image: "assets/images/team/bumsoo.jpg"
