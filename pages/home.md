@@ -1,13 +1,13 @@
 ---
 layout: home
 permalink: "/"
-title: "Ryu, Honglim"
+title: "Kim, Bumsoo"
 description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
 header_transparent: true
 meta_title: 서울대학교 김범수
 meta_og_image: "/assets/images/home/preview.jpg"
 meta_og_title: "김범수 홈페이지"
-meta_og_url: "https://snu-consensus.github.io/"
+meta_og_url: "https://kpsa-sustainable-diversity.github.io/"
 
 hero:
   enabled: true
