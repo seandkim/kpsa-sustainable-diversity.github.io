@@ -57,6 +57,16 @@ cards.size > 0 %}
     description=card.description thumbnail=card.thumbnail jobtitle=card.jobtitle
     links=card.links %}
   </div>
+  {% when 'promises' %}
+  <div class="col-12 col-md-6 col-lg-4 mb-gutter-half mt-gutter-half">
+    {% assign thumbnail = card.thumbnail %} {% assign description =
+    card.description %} {% assign fa_icon = card.fa_icon %} {% assign icon =
+    card.icon %} {% if hide_thumbnail %}{% assign thumbnail = false %}{% endif
+    %} {% if hide_icon %}{% assign icon = false %}{% assign fa_icon = false %}{%
+    endif %} {% if hide_description %}{% assign description = false %}{% endif
+    %} {% include cards/card.html title=card.title description=description
+    icon=icon fa_icon=icon thumbnail=thumbnail url="/promises/" %}
+  </div>
   {% when 'courses' %}
   <div class="col-12 col-md-6 col-lg-4 mb-gutter-half mt-gutter-half">
     {% assign thumbnail = card.thumbnail %} {% assign description =
