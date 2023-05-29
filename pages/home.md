@@ -60,7 +60,7 @@ promises:
   sort: "weight" # 'date'
   view_more_button_enabled: false
   view_more_button_text: "서울대 비전 모두 보기"
-  view_more_button_link: "/promises"
+  view_more_button_link: "/promises/"
   hide_thumbnail: false
   hide_icon: true
   hide_description: false
