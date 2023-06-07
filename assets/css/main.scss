@@ -65,11 +65,16 @@ html[data-mode='dark'] {
   --color-base-900: #{$base-dark-900};
 }
 
-#mainImgHeroText{
-  align-items: flex-end;
-}
+
 #mainImgHeroContainer{
   margin-right: 7.5%;
+}
+#mainImgHeroTextCover{
+  padding: 0;
+  margin:0;
+}
+#mainImgHeroText{
+  align-items: flex-end;
 }
 #infoDesc{
   font-weight:bold;
