@@ -65,4 +65,24 @@ html[data-mode='dark'] {
   --color-base-900: #{$base-dark-900};
 }
 
+#mainImgHeroText{
+  align-items: flex-end;
+}
+#mainImgHeroContainer{
+  margin-right: 7.5%;
+}
+
+@media (max-width: 768px){
+  #mainImgHero{
+    align-items: flex-end;
+    padding-bottom:0;
+  }  
+  #mainImgHeroContainer{
+    padding:0;
+  }
+  #mainImgHeroText{
+    align-items: center;
+  }
+}
+
 @import 'style';

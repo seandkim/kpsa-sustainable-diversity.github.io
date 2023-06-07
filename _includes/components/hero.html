@@ -20,18 +20,22 @@ capture bg_height %} {% if height %}height: {{ height }};{% endif %} {%
 endcapture %}
 
 <div
+  id="mainImgHero"
   class="strip hero {{ fullscreen }} {{ gradient }}"
   style="{{ bg_color }} {{ bg_height }}"
 >
   <div class="hero-background-image" style="{{ bg_image }}"></div>
   {% if divider %}{% include blocks/divider.html %}{% endif %}
-  <div class="container {% if divider %}pb-10{% endif %}">
+  <div
+    id="mainImgHeroContainer"
+    class="container {% if divider %}pb-10{% endif %}"
+  >
     <div class="row align-items-center">
       <div class="col-12 col-lg-12">
         <div
+          id="mainImgHeroText"
           class="hero-text"
-          style="{% if text_color %}color: {{ text_color }};{% endif %}; display:flex; flex-direction: column;
-          align-items: flex-end;"
+          style="{% if text_color %}color: {{ text_color }};{% endif %}; display:flex; flex-direction: column;"
         >
           <div
             style="
