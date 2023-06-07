@@ -80,6 +80,19 @@ html[data-mode='dark'] {
   font-weight:bold;
 }
 
+#학-력,
+#주요-학회-경력,
+#서울대학교-현-소속-및-직위,
+#주요-경력,
+#연구-업적
+{
+  font-weight:bold;
+}
+#heroPromiseImg{
+  filter: blur(4px);
+  -webkit-filter: blur(4px);
+}
+
 @media (min-width: 768px){
   #infoDesc{
     width: 100%;

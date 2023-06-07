@@ -35,6 +35,15 @@ main:
   - name: 김범수의 약속
     url: /promises/
     weight: 3
+    child:
+      - name: "다양성 증진"
+        url: /promises/diversity/
+      - name: "외연 확대와 기반 강화"
+        url: /promises/expand/
+      - name: "후속 세대 지원"
+        url: /promises/futrue/
+      - name: "네트워크 강화"
+        url: /promises/network/
 
   # - name: Projects
   #   url: /projects/

@@ -65,7 +65,7 @@ cards.size > 0 %}
     %} {% if hide_icon %}{% assign icon = false %}{% assign fa_icon = false %}{%
     endif %} {% if hide_description %}{% assign description = false %}{% endif
     %} {% include cards/card.html title=card.title description=description
-    icon=icon fa_icon=icon thumbnail=thumbnail url="/promises/" %}
+    icon=icon fa_icon=icon thumbnail=thumbnail url=card.url %}
   </div>
   {% when 'courses' %}
   <div class="col-12 col-md-6 col-lg-4 mb-gutter-half mt-gutter-half">

@@ -29,7 +29,7 @@ collections:
     permalink: /blog/:path/
   promises:
     output: true
-    permalink: /:collection
+    permalink: /:collection/:path/
   courses:
     output: true
     permalink: /:collection
@@ -67,6 +67,11 @@ defaults:
       type: visions
     values:
       layout: visions
+  - scope:
+      path: ""
+      type: promises
+    values:
+      layout: promises
 
 # Theme Config
 # google_analytics_id: "G-YB8SKVCHYJ"

@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "한국정치학회 회장에 출마하며"
+title: "학회장에 출마하며"
 date: 2022-07-12T15:15:34+10:00
 header_transparent: false
 permalink: "/statement/"
