@@ -65,6 +65,19 @@ promises:
   hide_icon: true
   hide_description: false
 
+blog_categories:
+  enabled: true
+  heading: "김범수의 생각"
+  sub_heading: ""
+  limit: 7
+  sort: "weight" # 'date'
+  view_more_button_enabled: false
+  view_more_button_text: "서울대 비전 모두 보기"
+  view_more_button_link: "/blog_categories/"
+  hide_thumbnail: false
+  hide_icon: true
+  hide_description: false
+
 intro:
   enabled: true
   align: center
@@ -141,6 +154,17 @@ posts:
   view_more_button_enabled: true
   view_more_button_text: "Read More Articles"
   view_more_button_link: "/blog"
+  hide_thumbnail: false
+  hide_description: false
+
+blog_categories:
+  enabled: true
+  heading: 김범수의 생각
+  limit: 4
+  sort: "date"
+  view_more_button_enabled: true
+  view_more_button_text: "Read More Articles"
+  view_more_button_link: "/blog_categories"
   hide_thumbnail: false
   hide_description: false
 ---

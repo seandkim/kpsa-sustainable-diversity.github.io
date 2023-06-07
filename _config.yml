@@ -33,6 +33,9 @@ collections:
   courses:
     output: true
     permalink: /:collection
+  blog_categories:
+    output: true
+    permalink: /:collection/:path
 
 defaults:
   - scope:
@@ -72,6 +75,11 @@ defaults:
       type: promises
     values:
       layout: promises
+  - scope:
+      path: ""
+      type: blog_categories
+    values:
+      layout: blog_categories
 
 # Theme Config
 # google_analytics_id: "G-YB8SKVCHYJ"

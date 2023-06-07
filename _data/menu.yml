@@ -49,8 +49,17 @@ main:
   #   url: /projects/
   #   weight: 2
   - name: 김범수의 생각
-    url: /blog/
+    url: /blog_categories/
     weight: 4
+    child:
+      - name: "한국일보 칼럼"
+        url: "/category/한국일보-칼럼/"
+      - name: "대학지성 칼럼"
+        url: "/category/대학지성-칼럼/"
+      - name: "기타 칼럼"
+        url: "/category/기타-칼럼/"
+      - name: "신간 소개 및 서평"
+        url: "/category/신간-소개-및-서평/"
 
   - name: 김범수의 강의
     url: /courses/

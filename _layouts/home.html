@@ -122,7 +122,8 @@ title=page.title description=page.description image=page.image %} {% endif %}
     image=page.outro.image %}
   </div>
 </div>
-{% endif %} {% if page.posts.enabled %}
+{% endif %}
+<!-- {% if page.posts.enabled %}
 <div class="strip">
   <div class="container">
     {% include components/grid.html collection="posts"
@@ -132,6 +133,20 @@ title=page.title description=page.description image=page.image %} {% endif %}
     view_more_button_enabled=page.posts.view_more_button_enabled
     view_more_button_text=page.posts.view_more_button_text
     view_more_button_link=page.posts.view_more_button_link %}
+  </div>
+</div>
+{% endif %}  -->
+{% if page.blog_categories.enabled %}
+<div class="strip">
+  <div class="container">
+    {% include components/grid.html collection="blog_categories"
+    heading=page.blog_categories.heading limit=page.blog_categories.limit
+    sort=page.blog_categories.sort
+    hide_thumbnail=page.blog_categories.hide_thumbnail
+    hide_description=page.blog_categories.hide_description
+    view_more_button_enabled=page.blog_categories.view_more_button_enabled
+    view_more_button_text=page.blog_categories.view_more_button_text
+    view_more_button_link=page.blog_categories.view_more_button_link %}
   </div>
 </div>
 {% endif %}
