@@ -36,7 +36,7 @@ title=page.title description=page.description image=page.image %} {% endif %}
 
 {% if page.intro.enabled %}
 <div class="strip strip-alt">
-  <div class="container">
+  <div id="infoContainer" class="container">
     {% include components/info.html heading=page.intro.heading
     sub_heading=page.intro.sub_heading align=page.intro.align
     features=page.intro.features buttons=page.intro.buttons

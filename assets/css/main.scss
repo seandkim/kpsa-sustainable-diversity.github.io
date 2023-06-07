@@ -72,6 +72,7 @@ html[data-mode='dark'] {
   margin-right: 7.5%;
 }
 
+
 @media (max-width: 768px){
   #mainImgHero{
     align-items: flex-end;
@@ -79,10 +80,26 @@ html[data-mode='dark'] {
   }  
   #mainImgHeroContainer{
     padding:0;
+    margin:0;
   }
   #mainImgHeroText{
     align-items: center;
   }
 }
+@media (max-width: 425px){
+  #infoTitle{
+    font-size:28px;
+  }
+  #infoContainer{
+    padding-left:8px;
+    padding-right:8px;
+  }
+}
+@media (max-width: 375px){
+  #infoTitle{
+    font-size:24px;
+  }
+}
+
 
 @import 'style';
