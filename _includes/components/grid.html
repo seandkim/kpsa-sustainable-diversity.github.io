@@ -58,7 +58,7 @@ cards.size > 0 %}
     links=card.links %}
   </div>
   {% when 'promises' %}
-  <div class="col-12 col-md-6 col-lg-4 mb-gutter-half mt-gutter-half">
+  <div class="col-12 col-md-6 col-lg-6 mb-gutter-half mt-gutter-half">
     {% assign thumbnail = card.thumbnail %} {% assign description =
     card.description %} {% assign fa_icon = card.fa_icon %} {% assign icon =
     card.icon %} {% if hide_thumbnail %}{% assign thumbnail = false %}{% endif
@@ -68,7 +68,7 @@ cards.size > 0 %}
     icon=icon fa_icon=icon thumbnail=thumbnail url=card.url %}
   </div>
   {% when 'courses' %}
-  <div class="col-12 col-md-6 col-lg-4 mb-gutter-half mt-gutter-half">
+  <div class="col-12 col-md-6 col-lg-6 mb-gutter-half mt-gutter-half">
     {% assign thumbnail = card.thumbnail %} {% assign description =
     card.description %} {% assign fa_icon = card.fa_icon %} {% assign icon =
     card.icon %} {% if hide_thumbnail %}{% assign thumbnail = false %}{% endif
