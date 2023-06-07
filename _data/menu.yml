@@ -8,7 +8,7 @@ main:
     child:
       - name: "김범수는?"
         url: /about/
-      - name: "한국정치학회 회장에 출마하며"
+      - name: "학회장에 출마하며"
         url: /statement/
 
   # - name: 김범수의 약속
@@ -53,7 +53,7 @@ footer_primary:
   - name: 김범수는?
     url: /about/
     weight: 1
-  - name: 한국정치학회 회장에 출마하며
+  - name: 학회장에 출마하며
     url: /statement/
     weight: 2
   - name: 김범수의 약속
