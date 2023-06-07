@@ -71,8 +71,15 @@ html[data-mode='dark'] {
 #mainImgHeroContainer{
   margin-right: 7.5%;
 }
+#infoDesc{
+  font-weight:bold;
+}
 
-
+@media (min-width: 768px){
+  #infoDesc{
+    width: 100%;
+  }
+}
 @media (max-width: 768px){
   #mainImgHero{
     align-items: flex-end;
@@ -91,8 +98,11 @@ html[data-mode='dark'] {
     font-size:28px;
   }
   #infoContainer{
-    padding-left:8px;
-    padding-right:8px;
+    padding-left:15px;
+    padding-right:15px;
+  }
+  #infoDesc{
+    font-weight:normal;
   }
 }
 @media (max-width: 375px){

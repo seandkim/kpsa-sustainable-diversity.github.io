@@ -14,7 +14,10 @@ assign buttons = include.buttons %}
         {% if heading %}
         <h2 id="infoTitle">{{ heading }}</h2>
         {% endif %} {% if sub_heading %}
-        <p class="mt-1 large {% if align == 'center' %}mx-auto{% endif %}">
+        <p
+          id="infoDesc"
+          class="mt-1 large {% if align == 'center' %}mx-auto{% endif %}"
+        >
           {{ sub_heading }}
         </p>
         {% endif %} {% if features.enabled and features.list.size > 0 %}
