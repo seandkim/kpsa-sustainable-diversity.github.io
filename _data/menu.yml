@@ -78,7 +78,7 @@ footer_primary:
     url: /promises/
     weight: 3
   - name: 김범수의 생각
-    url: /blog/
+    url: /blog_categories/
     weight: 4
   - name: 김범수의 강의
     url: /courses/
