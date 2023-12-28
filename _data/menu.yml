@@ -2,16 +2,16 @@ main:
   - name: 첫페이지
     url: /
     weight: 1
-  - name: 김범수는?
+  - name: 김영오는?
     url: /about/
     weight: 2
     child:
-      - name: "김범수는?"
+      - name: "김영오는?"
         url: /about/
-      - name: "학회장에 출마하며"
+      - name: "학장에 출마하며"
         url: /statement/
 
-  # - name: 김범수의 약속
+  # - name: 김영오의 약속
   #   url: /visions/
   #   weight: 3
   #   child:
@@ -32,7 +32,7 @@ main:
   #     - name: "재정"
   #       url: /visions/finance/
 
-  - name: 김범수의 약속
+  - name: 김영오의 약속
     url: /promises/
     weight: 3
     child:
@@ -48,7 +48,7 @@ main:
   # - name: Projects
   #   url: /projects/
   #   weight: 2
-  - name: 김범수의 생각
+  - name: 김영오의 생각
     url: /blog_categories/
     weight: 4
     child:
@@ -61,26 +61,26 @@ main:
       - name: "신간 소개 및 서평"
         url: "/category/신간-소개-및-서평/"
 
-  - name: 김범수의 강의
+  - name: 김영오의 강의
     url: /courses/
     weight: 5
   # - name: Buy Now
   #   url: https://www.zerostatic.io/theme/jekyll-advance/
   #   weight: 6
 footer_primary:
-  - name: 김범수는?
+  - name: 김영오는?
     url: /about/
     weight: 1
   - name: 학회장에 출마하며
     url: /statement/
     weight: 2
-  - name: 김범수의 약속
+  - name: 김영오의 약속
     url: /promises/
     weight: 3
-  - name: 김범수의 생각
+  - name: 김영오의 생각
     url: /blog_categories/
     weight: 4
-  - name: 김범수의 강의
+  - name: 김영오의 강의
     url: /courses/
     weight: 5
 

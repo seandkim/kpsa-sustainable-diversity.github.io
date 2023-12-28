@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 김범수의 생각
+title: 김영오의 생각
 description: "The latest news and opinions"
 permalink: "/blog/"
 header_transparent: false

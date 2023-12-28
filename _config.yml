@@ -1,7 +1,7 @@
 # Jekyll Config
 baseurl: "/"
 permalink: pretty
-title: "김범수 홈페이지"
+title: "김영오 홈페이지"
 collections_dir: collections
 markdown: kramdown
 highlighter: rouge

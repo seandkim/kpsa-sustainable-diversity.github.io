@@ -1,7 +1,7 @@
 ---
 layout: list
 collection: "promises"
-title: "김범수의 약속"
+title: "김영오의 약속"
 date: 2022-07-12T15:15:34+10:00
 header_transparent: false
 permalink: "/promises/"

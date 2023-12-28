@@ -4,19 +4,19 @@ permalink: "/"
 title: "Kim, Bumsoo"
 description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
 header_transparent: true
-meta_title: 서울대학교 김범수
+meta_title: 서울대학교 김영오
 meta_og_image: "/assets/images/home/preview.jpg"
-meta_og_title: "김범수 홈페이지"
+meta_og_title: "김영오 홈페이지"
 meta_og_url: "https://kpsa-sustainable-diversity.github.io/"
 
 hero:
   enabled: true
-  heading: "정치학 학문공동체의 중심,<br>한국정치학회"
-  sub_heading: "KPSA Sustainable Diversity"
+  heading: "세계를 선도하는 창의적 지식 공동체,<br>서울대 공과대학"
+  sub_heading: "SNU College of Engineering"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: false
-  background_image: "/assets/images/home/main-photo.jpg"
+  background_image: "/assets/images/home/yokim-with-student-cropped.jpg"
   background_image_blend_mode: false # "overlay", "multiple", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
@@ -41,7 +41,7 @@ hero:
 
 visions:
   enabled: true
-  heading: "김범수의 약속"
+  heading: "김영오의 약속"
   sub_heading: ""
   limit: 6
   sort: "weight" # 'date'
@@ -54,7 +54,7 @@ visions:
 
 promises:
   enabled: true
-  heading: "김범수의 약속"
+  heading: "김영오의 약속"
   sub_heading: ""
   limit: 6
   sort: "weight" # 'date'
@@ -67,7 +67,7 @@ promises:
 
 blog_categories:
   enabled: true
-  heading: "김범수의 생각"
+  heading: "김영오의 생각"
   sub_heading: ""
   limit: 7
   sort: "weight" # 'date'
@@ -82,8 +82,8 @@ intro:
   enabled: true
   align: center
   image: ""
-  heading: "열정적인 소통과 과감한 실천으로<br>한국정치학회의 새로운 미래를 준비하겠습니다."
-  sub_heading: "인구절벽에 따른 학령인구 감소와 그로 인한 대학구조조정의 여파는 정치학계의 기반을 뿌리부터 흔들고 있습니다. <br> 회원 여러분과 함께 위기를 변화의 기회로 삼아 10년, 20년이 지나도 흔들리지 않는 지속 가능한 정치학 생태계를 만들어 나가겠습니다."
+  heading: "새로운 물결과 대전환<br>교수님의 지지를 부탁드립니다"
+  sub_heading: "어쩌구 저쩌구 <br> 어쩌구 저쩌구"
   features:
     enabled: false
     list:
@@ -94,7 +94,7 @@ intro:
   buttons:
     enabled: true
     list:
-      - text: "한국정치학회 회장에 출마하며"
+      - text: "서울공대 학장에 출마하며"
         url: "/statement"
         external: false
         fa_icon: ""
@@ -148,7 +148,7 @@ outro:
 
 posts:
   enabled: true
-  heading: 김범수의 생각
+  heading: 김영오의 생각
   limit: 3
   sort: "date"
   view_more_button_enabled: true
@@ -159,7 +159,7 @@ posts:
 
 blog_categories:
   enabled: true
-  heading: 김범수의 생각
+  heading: 김영오의 생각
   limit: 4
   sort: "date"
   view_more_button_enabled: true

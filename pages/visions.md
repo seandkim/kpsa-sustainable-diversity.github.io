@@ -1,7 +1,7 @@
 ---
 layout: list
 collection: "visions"
-title: 김범수의 약속
+title: 김영오의 약속
 description: "Vision"
 permalink: "/visions/"
 header_transparent: false
@@ -9,7 +9,7 @@ hide_icon: true
 
 hero:
   enabled: false
-  heading: "김범수의 약속"
+  heading: "김영오의 약속"
   sub_heading: "Vision"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
