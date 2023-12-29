@@ -67,7 +67,7 @@ promises:
 
 blog_categories:
   enabled: true
-  heading: "김영오의 생각"
+  heading: "김영오의 글"
   sub_heading: ""
   limit: 7
   sort: "weight" # 'date'
@@ -148,7 +148,7 @@ outro:
 
 posts:
   enabled: true
-  heading: 김영오의 생각
+  heading: 김영오의 글
   limit: 3
   sort: "date"
   view_more_button_enabled: true
@@ -159,7 +159,7 @@ posts:
 
 blog_categories:
   enabled: true
-  heading: 김영오의 생각
+  heading: 김영오의 글
   limit: 4
   sort: "date"
   view_more_button_enabled: true

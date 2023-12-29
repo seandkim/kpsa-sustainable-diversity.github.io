@@ -1,14 +1,14 @@
 ---
 layout: list
 collection: "blog_categories"
-title: 김영오의 생각
+title: 김영오의 글
 description: ""
 permalink: "/blog_categories/"
 header_transparent: false
 
 hero:
   enabled: false
-  heading: "김영오의 생각"
+  heading: "김영오의 글"
   sub_heading: ""
   text_color: "#FFFFFF"
   background_color: "#1d2830"

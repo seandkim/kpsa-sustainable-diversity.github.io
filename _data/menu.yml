@@ -48,7 +48,7 @@ main:
   # - name: Projects
   #   url: /projects/
   #   weight: 2
-  - name: 김영오의 생각
+  - name: 김영오의 글
     url: /blog_categories/
     weight: 4
     child:
@@ -61,9 +61,9 @@ main:
       - name: "신간 소개 및 서평"
         url: "/category/신간-소개-및-서평/"
 
-  - name: 김영오의 강의
-    url: /courses/
-    weight: 5
+  # - name: 김영오의 강의
+  #   url: /courses/
+  #   weight: 5
   # - name: Buy Now
   #   url: https://www.zerostatic.io/theme/jekyll-advance/
   #   weight: 6
@@ -77,12 +77,12 @@ footer_primary:
   - name: 김영오의 약속
     url: /promises/
     weight: 3
-  - name: 김영오의 생각
+  - name: 김영오의 글
     url: /blog_categories/
     weight: 4
-  - name: 김영오의 강의
-    url: /courses/
-    weight: 5
+  # - name: 김영오의 강의
+  #   url: /courses/
+  #   weight: 5
 
   # - name: Projects
   #   url: /projects/
