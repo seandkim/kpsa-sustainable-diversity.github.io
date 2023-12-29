@@ -83,7 +83,7 @@ intro:
   align: center
   image: ""
   heading: "새로운 물결과 대전환<br>교수님의 지지를 부탁드립니다"
-  sub_heading: "어쩌구 저쩌구 <br> 어쩌구 저쩌구"
+  sub_heading: "김수한무 거북이와 두루미 삼천갑자 동방삭 <br> 치치카포 사리사리센타 워리워리 세브리깡 무두셀라"
   features:
     enabled: false
     list:

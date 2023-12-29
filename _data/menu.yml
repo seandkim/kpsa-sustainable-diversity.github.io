@@ -36,14 +36,14 @@ main:
     url: /promises/
     weight: 3
     child:
-      - name: "다양성 증진"
-        url: /promises/diversity/
-      - name: "외연 확대와 기반 강화"
-        url: /promises/expand/
-      - name: "후속 세대 지원"
-        url: /promises/futrue/
-      - name: "네트워크 강화"
-        url: /promises/network/
+      - name: "버팀목이 되는 직장"
+        url: /promises/support/
+      - name: "건강하고 편안한 일터"
+        url: /promises/perks/
+      - name: "대화와 교류가 넘치는 일터"
+        url: /promises/interactions/
+      - name: "발전기금 365억원 달성"
+        url: /promises/fund/
 
   # - name: Projects
   #   url: /projects/
