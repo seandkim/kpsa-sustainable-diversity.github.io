@@ -37,13 +37,13 @@ main:
     weight: 3
     child:
       - name: "버팀목이 되는 직장"
-        url: /promises/diversity/
+        url: /promises/support/
       - name: "건강하고 편안한 일터"
-        url: /promises/expand/
+        url: /promises/perks/
       - name: "대화와 교류가 넘치는 일터"
-        url: /promises/futrue/
+        url: /promises/interactions/
       - name: "발전기금 365억원 달성"
-        url: /promises/network/
+        url: /promises/fund/
 
   # - name: Projects
   #   url: /projects/
