@@ -48,7 +48,7 @@ main:
   # - name: Projects
   #   url: /projects/
   #   weight: 2
-  - name: 김영오의 생각
+  - name: 김영오의 글
     url: /blog_categories/
     weight: 4
     child:
@@ -77,7 +77,7 @@ footer_primary:
   - name: 김영오의 약속
     url: /promises/
     weight: 3
-  - name: 김영오의 생각
+  - name: 김영오의 글
     url: /blog_categories/
     weight: 4
   # - name: 김영오의 강의
