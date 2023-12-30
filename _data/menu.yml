@@ -49,17 +49,8 @@ main:
   #   url: /projects/
   #   weight: 2
   - name: 김영오의 글
-    url: /blog_categories/
+    url: /category/김영오의-글/
     weight: 4
-    child:
-      - name: "한국일보 칼럼"
-        url: "/category/한국일보-칼럼/"
-      - name: "대학지성 칼럼"
-        url: "/category/대학지성-칼럼/"
-      - name: "기타 칼럼 및 인터뷰"
-        url: "/category/기타-칼럼/"
-      - name: "신간 소개 및 서평"
-        url: "/category/신간-소개-및-서평/"
 
   # - name: 김영오의 강의
   #   url: /courses/
