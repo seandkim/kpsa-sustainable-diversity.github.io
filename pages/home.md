@@ -11,7 +11,7 @@ meta_og_url: "https://kpsa-sustainable-diversity.github.io/"
 
 hero:
   enabled: true
-  heading: "세계를 선도하는 창의적 지식 공동체,<br>서울대 공과대학"
+  heading: "새로운 물결과 대전환,<br>서울공대 교수님의 지지를 부탁드립니다"
   sub_heading: "SNU College of Engineering"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
@@ -83,7 +83,7 @@ intro:
   align: center
   image: ""
   heading: "새로운 물결과 대전환<br>교수님의 지지를 부탁드립니다"
-  sub_heading: "김수한무 거북이와 두루미 삼천갑자 동방삭 <br> 치치카포 사리사리센타 워리워리 세브리깡 무두셀라"
+  sub_heading: "풍부한 본부 행정 경험으로 복잡한 실타래를 풀겠습니다 <br> 당당한 목소리를 내는 서울공대의 선봉에 서겠습니다 <br> 2배의 발전기금, 3배의 복지, 5배의 교류, 10배의 홍보"
   features:
     enabled: false
     list:
