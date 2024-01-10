@@ -1,6 +1,6 @@
 ---
 title: "서울공대 연구환경, 과감한 업그레드를 제안합니다"
-description: "서울공대 교수님의 선도적 연구업적에 비해 저만치 뒤처져 있는 연구 환경을 논의드리고자 합니다."
+description: "'서울공대 Think Tank Center’를 신설, 국가 공학기술을 진단 예측하는 'SNU Technology Outlook'을 발간하겠습니다. 실패한 연구, 미완의 연구를 지원하는 ‘7전8기’ 연구지원사업에 매년 10억원을 배정하겠습니다."
 date: 2022-08-03
 weight: 3
 header_transparent: false
