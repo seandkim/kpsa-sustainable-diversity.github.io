@@ -7,7 +7,7 @@ header_transparent: true
 meta_title: 서울대학교 김영오
 meta_og_image: "/assets/images/home/preview.jpg"
 meta_og_title: "김영오 홈페이지"
-meta_og_url: "https://kpsa-sustainable-diversity.github.io/"
+meta_og_url: "seandkim.github.io/"
 
 hero:
   enabled: true
@@ -16,7 +16,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
-  background_image: "/assets/images/home/3-group-standout.jpg"
+  background_image: "/assets/images/home/3-group-standout-lower.jpg"
   background_image_blend_mode: multiply # "overlay", "multiple", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
@@ -82,7 +82,7 @@ intro:
   enabled: true
   align: center
   image: ""
-  heading: "새로운 물결과 대전환<br>교수님의 지지를 부탁드립니다"
+  heading: ""
   sub_heading: "풍부한 본부 행정 경험으로 복잡한 실타래를 풀겠습니다 <br> 당당한 목소리를 내는 서울공대의 선봉에 서겠습니다 <br> 2배의 발전기금, 3배의 복지, 5배의 교류, 10배의 홍보"
   features:
     enabled: false
