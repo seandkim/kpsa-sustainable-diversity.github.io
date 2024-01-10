@@ -6,7 +6,7 @@ weight: 4
 header_transparent: false
 fa_icon: false
 # icon: "assets/images/services/icons8-source-code-100.png"
-thumbnail: "/assets/images/promises/network.jpg"
+thumbnail: "/assets/images/promises/4-education-innovation.jpg"
 # image: "/assets/images/promises/network.jpg"
 
 hero:
@@ -16,7 +16,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/promises/network_large.jpg"
+  background_image: "/assets/images/promises/4-education-innovation.jpg"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false

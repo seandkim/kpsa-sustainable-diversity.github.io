@@ -6,8 +6,8 @@ weight: 2
 header_transparent: false
 fa_icon: false
 # icon: "assets/images/services/icons8-source-code-100.png"
-thumbnail: "/assets/images/promises/expand.jpg"
-# image: "/assets/images/promises/expand.jpg"
+thumbnail: "/assets/images/promises/2-finance.jpg"
+# image: "/assets/images/promises/2-finance.jpg"
 
 hero:
   enabled: true
@@ -16,7 +16,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/promises/expand_large.jpg"
+  background_image: "/assets/images/promises/2-finance.jpg"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false
