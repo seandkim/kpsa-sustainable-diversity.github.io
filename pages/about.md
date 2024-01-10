@@ -24,7 +24,7 @@ hero:
         size: large
 ---
 
-{% include markdown/figure.html src="/assets/images/about/yokim-profile.jpg" %}
+{% include markdown/figure.html src="/assets/images/about/학생처장실3.JPG" %}
 
 ### 전공 분야
 - 전공분야: 건설환경공학
@@ -80,3 +80,4 @@ hero:
 - 2012.12. 서울대학교 신양공학학술상
 - 2005.12. 한국수자원학회 공로표창: 국제수리학회 개최 공로
 - 2005.03. 대한토목학회장 표창: 전국 학생지회 창설 공로
+ 

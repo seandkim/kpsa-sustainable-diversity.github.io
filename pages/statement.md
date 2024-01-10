@@ -24,7 +24,7 @@ hero:
         size: large
 ---
 
-{% include markdown/figure.html src="/assets/images/about/yokim-profile.jpg" %}
+{% include markdown/figure.html src="/assets/images/about/2-solo-speech.jpg" %}
 
 존경하는 서울공대 교수님께,
 
@@ -55,3 +55,4 @@ hero:
 2023년 11월 1일
 
 서울공대 건설환경공학부 교수 김영오 드림
+

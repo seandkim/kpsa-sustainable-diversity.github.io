@@ -1,3 +1,9 @@
+# Young Oh Kim Campaign Website
+
+Derived from `https://kpsa-sustainable-diversity.github.io/`
+
+---
+
 # Jekyll Advance Pro Theme
 
 Jekyll Advance is a premium, multi-purpose Jekyll theme. It has 5 content-types for archetypical SMB and marketing websites. A modern semi-flat visual design with customisable hero images and full-width sections.
