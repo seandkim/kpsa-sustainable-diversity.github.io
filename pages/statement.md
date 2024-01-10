@@ -24,6 +24,8 @@ hero:
         size: large
 ---
 
+{% include markdown/figure.html src="/assets/images/about/2-solo-speech.jpg" %}
+
 존경하는 서울공대 교수님께,
 
 안녕하십니까? 2024년 초 진행될 서울공대 학장 선거에 출마하고자 이렇게 인사드립니다. “국가 과학기술 이슈에 서울공대 차원의 목소리가 실종되었습니다”, “서울공대 내에 토론과 교류가 너무 없습니다”라는 교수님들의 자조 섞인 일침이 가장 먼저 떠오릅니다. 이렇게 안타까운 우리의 현실 속에 제 뜻을 밝히게 되어 송구함이 앞섭니다.
@@ -54,4 +56,3 @@ hero:
 
 서울공대 건설환경공학부 교수 김영오 드림
 
-{% include markdown/figure.html src="/assets/images/about/yokim-profile.jpg" %}

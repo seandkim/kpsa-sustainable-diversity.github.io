@@ -15,9 +15,9 @@ hero:
   sub_heading: "SNU College of Engineering"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
-  background_gradient: false
-  background_image: "/assets/images/home/yokim-with-student-cropped.jpg"
-  background_image_blend_mode: false # "overlay", "multiple", "screen"
+  background_gradient: true
+  background_image: "/assets/images/home/3-group-standout.jpg"
+  background_image_blend_mode: multiply # "overlay", "multiple", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
   height: "80vh" #false # "700px"
