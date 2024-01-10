@@ -2,14 +2,14 @@ main:
   - name: 첫페이지
     url: /
     weight: 1
-  - name: 김영오는?
+  - name: 학장에 출마하며
     url: /about/
     weight: 2
     child:
-      - name: "김영오는?"
-        url: /about/
       - name: "학장에 출마하며"
         url: /statement/
+      - name: "김영오는?"
+        url: /about/
 
   # - name: 김영오의 약속
   #   url: /visions/
@@ -59,10 +59,7 @@ main:
   #   url: https://www.zerostatic.io/theme/jekyll-advance/
   #   weight: 6
 footer_primary:
-  - name: 김영오는?
-    url: /about/
-    weight: 1
-  - name: 학회장에 출마하며
+  - name: 학장에 출마하며
     url: /statement/
     weight: 2
   - name: 김영오의 약속
