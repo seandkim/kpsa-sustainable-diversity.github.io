@@ -6,7 +6,7 @@ weight: 3
 header_transparent: false
 fa_icon: false
 # icon: "assets/images/services/icons8-source-code-100.png"
-thumbnail: "/assets/images/promises/3-research-environment.jpg"
+thumbnail: "/assets/images/promises/3-research-environment2.png"
 # image: "/assets/images/promises/future.jpg"
 
 hero:
@@ -16,7 +16,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/promises/3-research-environment.jpg"
+  background_image: "/assets/images/promises/3-research-environment2.png"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false

@@ -2,7 +2,7 @@
 layout: home
 permalink: "/"
 title: "Kim, Young Oh"
-description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+description: "서울공대 학장에 출마합니다."
 header_transparent: true
 meta_title: 서울대학교 김영오
 meta_og_image: "/assets/images/home/preview.jpg"
@@ -16,7 +16,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
-  background_image: "/assets/images/home/3-group-standout-lower.jpg"
+  background_image: "/assets/images/home/4-solo3.jpeg"
   background_image_blend_mode: multiply # "overlay", "multiple", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false

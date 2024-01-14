@@ -3,7 +3,7 @@ main:
     url: /
     weight: 1
   - name: 학장에 출마하며
-    url: /about/
+    url: /statement/
     weight: 2
     child:
       - name: "학장에 출마하며"
