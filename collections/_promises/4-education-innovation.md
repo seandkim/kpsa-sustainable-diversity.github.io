@@ -6,7 +6,7 @@ weight: 4
 header_transparent: false
 fa_icon: false
 # icon: "assets/images/services/icons8-source-code-100.png"
-thumbnail: "/assets/images/promises/4-education-innovation.jpg"
+thumbnail: "/assets/images/promises/4-education-innovation2.png"
 # image: "/assets/images/promises/network.jpg"
 
 hero:
@@ -16,7 +16,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/promises/4-education-innovation.jpg"
+  background_image: "/assets/images/promises/4-education-innovation2.png"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false
@@ -34,7 +34,7 @@ hero:
 - AI, 반도체, 로봇, 바이오, 탄소중립 등의 기술 개발 및 확산 속도는 우리의 예상을 훌쩍 뛰어넘었으며, 소위 대전환의 시대가 시작되었습니다. 과거 고도성장기의 인재상으로는 서울공대의 위상을 지킬 수 없습니다.
 - 서울공대만의 인재상을 정립하기 위해 TF를 구성하고 2024년 2학기부터 공론화를
 시작하여 2025년 1월 <b>관악캠퍼스 50주년</b> 일환으로 <b>‘서울공대 인재상’</b>을 선포하겠습니다.
-- 서울공대 내 ‘인재역량지원센터’를 신설하여 입학-학업-진로까지 인재상 실현을 전담토록 추진하겠습니다. 인재역량지원센터는 <b>학습 카운슬러</b>는 물론 <b>심리 및 진로 상담사</b> 등 전문위원으로 구성되어 우리 학생들에 대한 모든 지원을 <b>원스톱으로 전담<b>합니다.
+- 서울공대 내 <b>‘인재역량지원센터’</b>를 신설하여 입학-학업-진로까지 인재상 실현을 전담토록 추진하겠습니다. 이 센터에서는 서울공대 학생들의 핵심역량을 키우는 <b>비교과 활동</b>과 행사는 물론 <b>학습 카운슬링과 심리 및 진로 상담</b> 등을 <b>원스톱</b>으로 연결합니다.
 
 ### 공학교육혁신센터는 변화된 시대에 맞게 ‘혁신’을 실행할 것입니다.
 
