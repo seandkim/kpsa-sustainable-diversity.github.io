@@ -5,9 +5,9 @@ date: 2022-08-01
 weight: 1
 header_transparent: false
 fa_icon: false
-thumbnail: "/assets/images/promises/1-workplace.jpg"
+thumbnail: "/assets/images/promises/1-workplace3.png"
 # image: "/assets/images/promises/diversity_large.jpg"
-background_image: "/assets/images/promises/1-workplace.jpg"
+background_image: "/assets/images/promises/1-workplace3.png"
 
 hero:
   enabled: true
@@ -16,7 +16,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/promises/1-workplace.jpg"
+  background_image: "/assets/images/promises/1-workplace3.png"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false
