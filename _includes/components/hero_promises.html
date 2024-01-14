@@ -8,7 +8,7 @@ hero.background_gradient %} {% assign fullscreen_desktop =
 hero.fullscreen_desktop %} {% assign fullscreen_mobile = hero.fullscreen_mobile
 %} {% assign buttons = hero.buttons %} {% assign height = hero.height %} {%
 capture bg_image %} {% if background_image and background_image != ""
-%}background-image: url('{{ background_image | absolute_url }}');{% endif %} {%
+%}background-image: url('{{ background_image }}');{% endif %} {%
 if background_image_blend_mode and background_image != "" %}mix-blend-mode: {{
 background_image_blend_mode }};{% endif %} {% endcapture %} {% capture bg_color
 %} {% if background_color and background_color != "" %}background-color: {{
