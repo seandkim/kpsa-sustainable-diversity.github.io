@@ -1,11 +1,11 @@
 ---
 layout: home
 permalink: "/"
-title: "Kim, Young Oh"
+title: "KIM, Young-Oh"
 description: "서울공대 학장에 출마합니다."
 header_transparent: true
 meta_title: 서울대학교 김영오
-meta_og_image: "/assets/images/home/preview.jpg"
+meta_og_image: "/assets/images/home/preview2.png"
 meta_og_title: "김영오 홈페이지"
 meta_og_url: "seandkim.github.io/"
 
@@ -83,7 +83,7 @@ intro:
   align: center
   image: ""
   heading: ""
-  sub_heading: "풍부한 본부 행정 경험으로 복잡한 실타래를 풀겠습니다 <br> 당당한 목소리를 내는 서울공대의 선봉에 서겠습니다 <br> 2배의 발전기금, 3배의 복지, 5배의 교류, 10배의 홍보"
+  sub_heading: "풍부한 본부 행정 경험으로 복잡한 실타래를 풀겠습니다 <br> 당당한 목소리를 내는 서울공대의 선봉에 서겠습니다 <br> 2배의 발전기금, 3배의 복지, 5배의 교류, 10배의 홍보를 이루겠습니다."
   features:
     enabled: false
     list:
