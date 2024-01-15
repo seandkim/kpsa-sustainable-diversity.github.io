@@ -11,7 +11,7 @@ meta_og_url: "yokim05-snu-eng.github.io/"
 
 hero:
   enabled: true
-  heading: "새로운 물결과 대전환,<br>서울공대 교수님의 지지를 부탁드립니다"
+  heading: "새로운 물결과 대전환,<br>교수님의 지지를 부탁드립니다"
   sub_heading: "SNU College of Engineering"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
@@ -83,7 +83,7 @@ intro:
   align: center
   image: ""
   heading: ""
-  sub_heading: "풍부한 본부 행정 경험으로 복잡한 실타래를 풀겠습니다 <br> 당당한 목소리를 내는 서울공대의 선봉에 서겠습니다 <br> 2배의 발전기금, 3배의 복지, 5배의 교류, 10배의 홍보를 이루겠습니다."
+  sub_heading: "풍부한 본부 행정 경험으로 복잡한 실타래를 풀겠습니다. 서울공대의 당당한 목소리를 높이겠습니다. 발전기금 2배, 복지 3배, 교류 5배, 홍보 10배를 모두 현실로 만들겠습니다."
   features:
     enabled: false
     list:
