@@ -77,7 +77,7 @@ html[data-mode='dark'] {
   margin:0;
 }
 #mainImgHeroText{
-  align-items: flex-end;
+  align-items: center;
 }
 #infoDesc{
   font-weight:bold;
@@ -107,8 +107,8 @@ html[data-mode='dark'] {
     padding-bottom:0;
   }  
   #mainImgHeroContainer{
-    padding:0;
-    margin:0;
+    // padding:0;
+    // margin:0;
   }
   #mainImgHeroText{
     align-items: center;
