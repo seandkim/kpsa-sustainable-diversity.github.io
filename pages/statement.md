@@ -24,7 +24,7 @@ hero:
         size: large
 ---
 
-{% include markdown/figure.html src="/assets/images/about/2-solo-speech-lower.jpg" %}
+{% include markdown/figure.html src="/assets/images/home/4-solo3.jpeg" %}
 
 존경하는 서울공대 교수님께,
 

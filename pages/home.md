@@ -16,7 +16,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
-  background_image: "/assets/images/home/4-solo3.jpeg"
+  background_image: "/assets/images/about/2-solo-speech-lower.jpg"
   background_image_blend_mode: multiply # "overlay", "multiple", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
