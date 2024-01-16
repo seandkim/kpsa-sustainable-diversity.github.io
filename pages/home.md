@@ -11,7 +11,7 @@ meta_og_url: "yokim05-snu-eng.github.io/"
 
 hero:
   enabled: true
-  heading: "새로운 물결과 대전환,<br>교수님의 지지를 부탁드립니다"
+  heading: "서울공대가 시작하는 새로운 물결,<br>교수님의 지지를 부탁드립니다"
   sub_heading: "SNU College of Engineering"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
