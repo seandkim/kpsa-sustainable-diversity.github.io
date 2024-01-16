@@ -5,7 +5,7 @@ title: "KIM, Young-Oh"
 description: "서울공대 학장에 출마합니다."
 header_transparent: true
 meta_title: 서울대학교 김영오
-meta_og_image: "/assets/images/home/preview.jpg"
+meta_og_image: "/assets/images/home/preview3.png"
 meta_og_title: "김영오 홈페이지"
 meta_og_url: "yokim05-snu-eng.github.io/"
 
