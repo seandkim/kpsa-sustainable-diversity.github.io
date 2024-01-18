@@ -52,9 +52,10 @@ main:
     url: /category/김영오의-글/
     weight: 4
 
-  # - name: 김영오의 강의
-  #   url: /courses/
-  #   weight: 5
+  - name: 자료실
+    url: /courses/
+    weight: 5
+    
   # - name: Buy Now
   #   url: https://www.zerostatic.io/theme/jekyll-advance/
   #   weight: 6
@@ -68,13 +69,13 @@ footer_primary:
   - name: 김영오의 글
     url: /blog_categories/
     weight: 4
-  # - name: 김영오의 강의
-  #   url: /courses/
-  #   weight: 5
+  - name: 자료실
+    url: /courses/
+    weight: 5
 
   # - name: Projects
   #   url: /projects/
-  #   weight: 3
+  #   weight: 5
   # - name: Team
   #   url: /team/
   #   weight: 4
