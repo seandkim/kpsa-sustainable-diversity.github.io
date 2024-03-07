@@ -2,6 +2,11 @@
 
 Derived from `https://kpsa-sustainable-diversity.github.io/`
 
+## Quickstart
+- Open codespace
+- Run `bundler update`
+- Run `jekyll serve` or ``jekyll serve --livereload`
+
 ---
 
 # Jekyll Advance Pro Theme
