@@ -1,5 +1,5 @@
 ---
-title: "서울공대 연구환경, 과감한 업그레드를 제안합니다"
+title: "서울공대 연구환경, 과감한 업그레이드를 제안합니다"
 description: "'서울공대 Think Tank Center’를 신설, 국가 공학기술을 진단 예측하는 'SNU Technology Outlook'을 발간하겠습니다. 실패한 연구, 미완의 연구를 지원하는 ‘7전8기’ 연구지원사업에 매년 10억원을 배정하겠습니다."
 date: 2022-08-03
 weight: 3
@@ -11,7 +11,7 @@ thumbnail: "/assets/images/promises/3-research-environment2.png"
 
 hero:
   enabled: true
-  heading: "서울공대 연구환경, 과감한 업그레드를 제안합니다"
+  heading: "서울공대 연구환경, 과감한 업그레이드를 제안합니다"
   sub_heading: "Diversity"
   text_color: "#FFFFFF"
   background_color: ""
@@ -23,7 +23,7 @@ hero:
 ---
 
 <br>
-# 서울공대 연구환경, 과감한 업그레드를 제안합니다
+# 서울공대 연구환경, 과감한 업그레이드를 제안합니다
 
 존경하는 서울공대 교수님께,
 

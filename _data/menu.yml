@@ -40,7 +40,7 @@ main:
         url: /promises/1-workplace/
       - name: "서울공대의 도약, 든든한 재원부터"
         url: /promises/2-finance/
-      - name: "서울공대 연구환경, 과감한 업그레드를 제안합니다"
+      - name: "서울공대 연구환경, 과감한 업그레이드를 제안합니다"
         url: /promises/3-research-environment/
       - name: "서울공대가 선도하는 공학교육 혁신"
         url: /promises/4-education-innovation/
