@@ -48,12 +48,12 @@ main:
   # - name: Projects
   #   url: /projects/
   #   weight: 2
-  - name: 김영오의 글
-    url: /category/김영오의-글/
+  - name: 김영오의 서신
+    url: /courses/
     weight: 4
 
-  - name: 자료실
-    url: /courses/
+  - name: 김영오의 글
+    url: /category/김영오의-글/
     weight: 5
     
   # - name: Buy Now
@@ -66,11 +66,11 @@ footer_primary:
   - name: 김영오의 약속
     url: /promises/
     weight: 3
+  - name: 김영오의 서신
+    url: /courses/
+    weight: 4
   - name: 김영오의 글
     url: /blog_categories/
-    weight: 4
-  - name: 자료실
-    url: /courses/
     weight: 5
 
   # - name: Projects

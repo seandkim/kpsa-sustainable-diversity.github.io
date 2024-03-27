@@ -11,7 +11,7 @@ meta_og_url: "yokim05-snu-eng.github.io/"
 
 hero:
   enabled: true
-  heading: "서울공대가 시작하는 새로운 물결,<br>교수님의 지지를 부탁드립니다"
+  heading: "2024년 4월 15일,<br/>교수님 한 분 한 분 선택으로<br/>서울공대의 '대전환'이 '시작'됩니다."
   sub_heading: "SNU College of Engineering"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
@@ -82,8 +82,8 @@ intro:
   enabled: true
   align: center
   image: ""
-  heading: ""
-  sub_heading: "풍부한 본부 행정 경험으로 복잡한 실타래를 풀겠습니다. 서울공대의 당당한 목소리를 높이겠습니다. 발전기금 2배, 복지 3배, 교류 5배, 홍보 10배를 모두 현실로 만들겠습니다."
+  heading: "변화를 위한 시작<br/>미래를 위한 시작<br/>위상을 위한 시작"
+  sub_heading: ""
   features:
     enabled: false
     list:
@@ -147,7 +147,7 @@ outro:
         size: "large"
 
 posts:
-  enabled: true
+  enabled: false
   heading: 김영오의 글
   limit: 3
   sort: "date"
@@ -157,14 +157,14 @@ posts:
   hide_thumbnail: false
   hide_description: false
 
-blog_categories:
+courses:
   enabled: true
-  heading: 김영오의 글
+  heading: 김영오의 서신
   limit: 4
   sort: "date"
   view_more_button_enabled: true
-  view_more_button_text: "Read More Articles"
-  view_more_button_link: "/blog_categories"
+  view_more_button_text: "더보기"
+  view_more_button_link: "/courses"
   hide_thumbnail: false
   hide_description: false
 ---

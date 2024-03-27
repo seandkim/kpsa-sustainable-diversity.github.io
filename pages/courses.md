@@ -1,14 +1,14 @@
 ---
 layout: list
 collection: "courses"
-title: 자료실
+title: 김영오의 서신
 description: ""
 permalink: "/courses/"
 header_transparent: false
 
 hero:
   enabled: false
-  heading: "자료실"
+  heading: "김영오의 서신"
   sub_heading: ""
   text_color: "#FFFFFF"
   background_color: "#1d2830"
