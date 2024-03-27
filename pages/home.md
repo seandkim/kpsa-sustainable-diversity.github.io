@@ -101,6 +101,10 @@ intro:
         size: large
         outline: true
         style: "primary"
+      - text: "발전계획서"
+        url: "/assets/files/snu-vision-new.pdf"
+        external: true
+        size: "large"
 
 partners:
   enabled: true
@@ -138,13 +142,13 @@ outro:
     enabled: true
     list:
       - text: "발전계획서"
-        url: "/assets/files/snu-vision.pdf"
+        url: "/assets/files/snu-vision-new.pdf"
         external: false
         size: "large"
-      - text: "소견서"
-        url: "/assets/files/statement.pdf"
-        external: false
-        size: "large"
+      # - text: "소견서"
+      #   url: "/assets/files/statement.pdf"
+      #   external: false
+      #   size: "large"
 
 posts:
   enabled: false
