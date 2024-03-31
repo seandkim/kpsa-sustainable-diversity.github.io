@@ -82,7 +82,7 @@ intro:
   enabled: true
   align: center
   image: ""
-  heading: "변화를 위한 시작<br/>미래를 위한 시작<br/>위상을 위한 시작"
+  heading: "서울공대 변화를 위한 시작<br/>서울공대 미래를 위한 시작<br/>서울공대 위상을 위한 시작"
   sub_heading: ""
   features:
     enabled: false
@@ -94,7 +94,7 @@ intro:
   buttons:
     enabled: true
     list:
-      - text: "서울공대 학장에 출마하며"
+      - text: "학장에 출마하며"
         url: "/statement"
         external: false
         fa_icon: ""
@@ -102,7 +102,11 @@ intro:
         outline: true
         style: "primary"
       - text: "발전계획서"
-        url: "/assets/files/snu-vision-new.pdf"
+        url: "/assets/files/snu-vision-new-korean.pdf"
+        external: true
+        size: "large"
+      - text: "Development Plan"
+        url: "/assets/files/snu-vision-new-english.pdf"
         external: true
         size: "large"
 

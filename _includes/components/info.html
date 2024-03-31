@@ -36,7 +36,7 @@ assign buttons = include.buttons %}
           {% for button in buttons.list %} {% include blocks/button.html
           text=button.text url=button.url external=button.external
           size=button.size outline=button.outline style=button.style
-          fa_icon=button.fa_icon %} <br/> <br/> {% endfor %}
+          fa_icon=button.fa_icon %} {% endfor %}
         </div>
         {% endif %}
       </div>
