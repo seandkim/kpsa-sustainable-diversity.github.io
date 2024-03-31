@@ -44,6 +44,18 @@ title=page.title description=page.description image=page.image %} {% endif %}
   </div>
 </div>
 {% endif %}
+
+{% if page.intro2.enabled %}
+<div class="strip strip-base">
+  <div id="infoContainer" class="container">
+    {% include components/info.html heading=page.intro2.heading
+    sub_heading=page.intro2.sub_heading align=page.intro2.align
+    features=page.intro2.features buttons=page.intro2.buttons
+    image=page.intro2.image %}
+  </div>
+</div>
+{% endif %}
+
 <!-- {% if page.visions.enabled %}
 <div class="strip strip-base">
   <div class="container">
@@ -59,7 +71,7 @@ title=page.title description=page.description image=page.image %} {% endif %}
 </div>
 {% endif %}  -->
 {% if page.promises.enabled %}
-<div class="strip strip-base">
+<div class="strip strip-alt">
   <div class="container">
     {% include components/grid.html collection="promises"
     heading=page.promises.heading sub_heading=page.promises.sub_heading
@@ -137,7 +149,7 @@ title=page.title description=page.description image=page.image %} {% endif %}
 </div>
 {% endif %}  -->
 {% if page.courses.enabled %}
-<div class="strip">
+<div class="strip strip-base">
   <div class="container">
     {% include components/grid.html collection="courses"
     heading=page.courses.heading limit=page.courses.limit

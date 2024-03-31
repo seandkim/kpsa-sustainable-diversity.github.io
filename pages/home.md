@@ -101,11 +101,28 @@ intro:
         size: large
         outline: true
         style: "primary"
-      - text: "발전계획서"
+
+intro2:
+  enabled: true
+  align: center
+  image: ""
+  heading: "발전계획서"
+  sub_heading: "2배의 발전기금, 3배의 복지, 5배의 교류, 10배의 홍보"
+  features:
+    enabled: false
+    list:
+      - text: "Custom services"
+        fa_icon: "fas fa-check"
+      - text: "Highly trained staff"
+        fa_icon: "fas fa-check"
+  buttons:
+    enabled: true
+    list:
+      - text: "한글"
         url: "/assets/files/snu-vision-new-korean.pdf"
         external: true
         size: "large"
-      - text: "Development Plan"
+      - text: "English"
         url: "/assets/files/snu-vision-new-english.pdf"
         external: true
         size: "large"
