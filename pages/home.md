@@ -13,7 +13,7 @@ meta_og_url: "yokim05-snu-eng.github.io/"
 
 hero:
   enabled: true
-  heading: "서울공대가 시작하는 새로운 물결,<br>교수님의 지지를 부탁드립니다"
+  heading: "2024년 4월 15일,<br/>교수님 한 분 한 분 선택으로<br/>서울공대의 '대전환'이 '시작'됩니다."
   sub_heading: "SNU College of Engineering"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
@@ -84,8 +84,8 @@ intro:
   enabled: true
   align: center
   image: ""
-  heading: ""
-  sub_heading: "풍부한 본부 행정 경험으로 복잡한 실타래를 풀겠습니다. 서울공대의 당당한 목소리를 높이겠습니다. 발전기금 2배, 복지 3배, 교류 5배, 홍보 10배를 모두 현실로 만들겠습니다."
+  heading: "서울공대 변화를 위한 시작<br/>서울공대 미래를 위한 시작<br/>서울공대 위상을 위한 시작"
+  sub_heading: ""
   features:
     enabled: false
     list:
@@ -96,13 +96,38 @@ intro:
   buttons:
     enabled: true
     list:
-      - text: "서울공대 학장에 출마하며"
+      - text: "학장에 출마하며"
         url: "/statement"
         external: false
         fa_icon: ""
         size: large
         outline: true
         style: "primary"
+
+intro2:
+  enabled: true
+  align: center
+  image: ""
+  heading: "발전계획서"
+  sub_heading: "2배의 발전기금, 3배의 복지, 5배의 교류, 10배의 홍보"
+  features:
+    enabled: false
+    list:
+      - text: "Custom services"
+        fa_icon: "fas fa-check"
+      - text: "Highly trained staff"
+        fa_icon: "fas fa-check"
+  buttons:
+    enabled: true
+    list:
+      - text: "한글"
+        url: "/assets/files/snu-vision-new-korean.pdf"
+        external: true
+        size: "large"
+      - text: "English"
+        url: "/assets/files/snu-vision-new-english.pdf"
+        external: true
+        size: "large"
 
 partners:
   enabled: true
@@ -140,16 +165,16 @@ outro:
     enabled: true
     list:
       - text: "발전계획서"
-        url: "/assets/files/snu-vision.pdf"
+        url: "/assets/files/snu-vision-new.pdf"
         external: false
         size: "large"
-      - text: "소견서"
-        url: "/assets/files/statement.pdf"
-        external: false
-        size: "large"
+      # - text: "소견서"
+      #   url: "/assets/files/statement.pdf"
+      #   external: false
+      #   size: "large"
 
 posts:
-  enabled: true
+  enabled: false
   heading: 김영오의 글
   limit: 3
   sort: "date"
@@ -159,14 +184,14 @@ posts:
   hide_thumbnail: false
   hide_description: false
 
-blog_categories:
+courses:
   enabled: true
-  heading: 김영오의 글
+  heading: 김영오의 서신
   limit: 4
   sort: "date"
   view_more_button_enabled: true
-  view_more_button_text: "Read More Articles"
-  view_more_button_link: "/blog_categories"
+  view_more_button_text: "더보기"
+  view_more_button_link: "/courses"
   hide_thumbnail: false
   hide_description: false
 ---

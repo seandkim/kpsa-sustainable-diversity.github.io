@@ -44,6 +44,18 @@ title=page.title description=page.description image=page.image %} {% endif %}
   </div>
 </div>
 {% endif %}
+
+{% if page.intro2.enabled %}
+<div class="strip strip-base">
+  <div id="infoContainer" class="container">
+    {% include components/info.html heading=page.intro2.heading
+    sub_heading=page.intro2.sub_heading align=page.intro2.align
+    features=page.intro2.features buttons=page.intro2.buttons
+    image=page.intro2.image %}
+  </div>
+</div>
+{% endif %}
+
 <!-- {% if page.visions.enabled %}
 <div class="strip strip-base">
   <div class="container">
@@ -59,7 +71,7 @@ title=page.title description=page.description image=page.image %} {% endif %}
 </div>
 {% endif %}  -->
 {% if page.promises.enabled %}
-<div class="strip strip-base">
+<div class="strip strip-alt">
   <div class="container">
     {% include components/grid.html collection="promises"
     heading=page.promises.heading sub_heading=page.promises.sub_heading
@@ -136,17 +148,17 @@ title=page.title description=page.description image=page.image %} {% endif %}
   </div>
 </div>
 {% endif %}  -->
-{% if page.blog_categories.enabled %}
-<div class="strip">
+{% if page.courses.enabled %}
+<div class="strip strip-base">
   <div class="container">
-    {% include components/grid.html collection="blog_categories"
-    heading=page.blog_categories.heading limit=page.blog_categories.limit
-    sort=page.blog_categories.sort
-    hide_thumbnail=page.blog_categories.hide_thumbnail
-    hide_description=page.blog_categories.hide_description
-    view_more_button_enabled=page.blog_categories.view_more_button_enabled
-    view_more_button_text=page.blog_categories.view_more_button_text
-    view_more_button_link=page.blog_categories.view_more_button_link %}
+    {% include components/grid.html collection="courses"
+    heading=page.courses.heading limit=page.courses.limit
+    sort=page.courses.sort
+    hide_thumbnail=page.courses.hide_thumbnail
+    hide_description=page.courses.hide_description
+    view_more_button_enabled=page.courses.view_more_button_enabled
+    view_more_button_text=page.courses.view_more_button_text
+    view_more_button_link=page.courses.view_more_button_link %}
   </div>
 </div>
 {% endif %}

@@ -98,5 +98,15 @@ cards.size > 0 %}
     icon=icon fa_icon=icon thumbnail=thumbnail url=card.url %}
   </div>
   {% endcase %} {% endfor %}
+
+  <div class="col-12">
+    {% if view_more_button_enabled and view_more_button_link %}
+    <div class="grid-footer mt-1">
+      {% include blocks/button.html text=view_more_button_text
+      url=view_more_button_link external=button.external size='small'
+      outline=true style='primary' %}
+    </div>
+    {% endif %}
+  </div>
 </div>
 {% endif %}
