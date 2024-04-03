@@ -1,17 +1,20 @@
 h1,
 .h1 {
   font-family: $font-family-heading;
-  font-size: 42px;
+  font-size: 40px;
   line-height: 1.2;
   font-weight: bold;
   margin: 0;
   @include media-breakpoint-up(md) {
     font-weight: bold;
-    font-size: 48px;
+    font-size: 40px;
   }
   @include media-breakpoint-between(xs, sm) {
     font-weight: bold;
-    font-size: 33px;
+    font-size: 30px;
+  }
+  b {
+    color: orange;
   }
 }
 h2,
