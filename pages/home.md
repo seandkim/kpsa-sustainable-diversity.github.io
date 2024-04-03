@@ -13,7 +13,7 @@ meta_og_url: "yokim05-snu-eng.github.io/"
 
 hero:
   enabled: true
-  heading: "2024년 4월 15일,<br/>교수님 한 분 한 분 선택으로<br/>서울공대의 '대전환'이 '시작'됩니다."
+  heading: "2024년 4월 15일,<br/>교수님 한 분 한 분 선택으로<br/>서울공대의 <b>대전환</b>이 <b>시작</b>됩니다."
   sub_heading: "SNU College of Engineering"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
