@@ -2,7 +2,7 @@ h1,
 .h1 {
   font-family: $font-family-heading;
   font-size: 40px;
-  line-height: 1.2;
+  line-height: 1.5;
   font-weight: bold;
   margin: 0;
   @include media-breakpoint-up(md) {
