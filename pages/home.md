@@ -2,12 +2,12 @@
 layout: home
 permalink: "/"
 title: "KIM, Young-Oh"
-description: "서울공대 학장에 출마합니다."
+description: "서울공대 학장후보 김영오"
 header_transparent: true
-meta_title: 서울대학교 김영오 공대학장 출마
+meta_title: 서울공대 학장후보 김영오
 meta_description: 2024년 4월 15일, 교수님 한 분 한 분 선택으로 서울공대의 '대전환'이 '시작'됩니다.
 meta_og_image: "/assets/images/home/preview4.png"
-meta_og_title: "서울대학교 김영오 공대학장 출마"
+meta_og_title: "서울공대 학장후보 김영오"
 meta_og_description: 2024년 4월 15일, 교수님 한 분 한 분 선택으로 서울공대의 '대전환'이 '시작'됩니다.
 meta_og_url: "yokim05-snu-eng.github.io/"
 
