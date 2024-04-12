@@ -10,6 +10,12 @@ main:
         url: /statement/
       - name: "김영오는?"
         url: /about/
+      - name: "학장예비후보 소견발표"
+        url: /assets/files/2024-4-8-speech.pdf 
+      - name: "발전계획서 (한글)"
+        url: /assets/files/snu-vision-new-korean.pdf
+      - name: "발전계획서 (영문)"
+        url: /assets/files/snu-vision-new-english.pdf
 
   # - name: 김영오의 약속
   #   url: /visions/
