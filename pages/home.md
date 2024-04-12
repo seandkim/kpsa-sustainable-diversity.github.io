@@ -96,9 +96,9 @@ intro:
   buttons:
     enabled: true
     list:
-      - text: "학장에 출마하며"
-        url: "/statement"
-        external: false
+      - text: "학장예비후보 소견발표"
+        url: "/assets/files/2024-4-8-speech.pdf"
+        external: true
         fa_icon: ""
         size: large
         outline: true
