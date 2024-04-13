@@ -16,8 +16,6 @@ main:
         url: /assets/files/snu-vision-new-korean.pdf
       - name: "발전계획서 (영문)"
         url: /assets/files/snu-vision-new-english.pdf
-      - name: "경청 정리"
-        url: /assets/files/backlog.pdf
 
   # - name: 김영오의 약속
   #   url: /visions/
